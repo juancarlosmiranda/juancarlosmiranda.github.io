@@ -3,23 +3,26 @@
    :author: Juan Carlos Miranda
    :geo.placename: Worldwide
 
-
-.. image:: _static/sticker-wtd-colors.png
-  :width: 400
-  :alt: Alternative text here
-
-Notes and Recipes in Computer Science's documentation!
+Hi, I'm Juan Carlos!
 =================================================================
+Welcome to my site!.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   concepts/testing_things
-   concepts/trigonometry
-   features/searching
+Here I try to publish what I do, that includes: notes, investigations, works, code. I hope this is useful to you, and if it is, please let me know.
 
 
+About me
+======================
+I am currently a PhD student at the University of Lleida (UDL_) in the Research Group on Precision Agriculture (GRAP_) - Department of Agricultural and Forestry Engineering (EAGROF_). My work focuses on the application of photonic sensors, computer vision and spatial sampling methods to estimate fruit load in apple trees THESIS_.
+
+.. _UDL: https://www.udl.cat/
+.. _GRAP: https://www.grap.udl.cat/
+.. _EAGROF: http://www.eagrof.udl.cat/en/
+.. _THESIS: https://www.researchgate.net/project/Thesis-Combining-the-use-of-photonic-sensors-computer-vision-and-spatial-sampling-methods-to-estimate-fruit-load
+
+
+* Researchgate -> <https://www.researchgate.net/profile/Juan-Miranda-6>
+
+* ORCID -> <https://orcid.org/0000-0001-5912-9704>
 
 Indices and tables
 ==================
@@ -28,12 +31,13 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+.. toctree::
+   :hidden:
+   :glob:
+   :maxdepth: 1
 
-Other titles
-==================
+   concepts/testing_things
+   features/searching
+   recipes/recipe_01
+   recipes/recipe_02
 
-Hola mundo!!
-This is a paragraph in which I wrtite something $project
-This is a link GRAP_.
-
-.. _GRAP: https://www.grap.udl.cat/

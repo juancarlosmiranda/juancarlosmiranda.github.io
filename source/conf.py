@@ -1,4 +1,4 @@
-project = 'Notes and Recipes in Computer Science'
+project = 'Juan Carlos blog\'s'
 copyright = '2022, Juan Carlos Miranda'
 author = u'Juan Carlos Miranda'
 version = u'0.1'
@@ -17,6 +17,7 @@ exclude_patterns = []
 html_theme = 'press'
 
 html_static_path = ['_static']
+#html_static_path = ['https://github.com/juancarlosmiranda/juancarlosmiranda.github.io/blob/master/build/html/_static/']
 
 from recommonmark.parser import CommonMarkParser
 source_parsers = {
