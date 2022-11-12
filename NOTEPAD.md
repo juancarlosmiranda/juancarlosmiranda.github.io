@@ -34,3 +34,12 @@ https://medium.com/@vvvlad42/create-great-documentation-with-sphinx-and-markdown
 
 
 sphinx-quickstart
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

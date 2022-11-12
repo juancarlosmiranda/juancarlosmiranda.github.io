@@ -12,12 +12,9 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = []
 
-
-#html_theme = 'alabaster'
 html_theme = 'press'
 
 html_static_path = ['_static']
-#html_static_path = ['https://github.com/juancarlosmiranda/juancarlosmiranda.github.io/blob/master/build/html/_static/']
 
 from recommonmark.parser import CommonMarkParser
 source_parsers = {
