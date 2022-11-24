@@ -45,13 +45,12 @@ Open source software
 ======================
 
 __
-.. _Pypi.org: https://pypi.org
 .. _AK_ACQS - Azure Kinect Acquisition System: https://github.com/GRAP-UdL-AT/ak_acquisition_system
 .. _AK_SM_RECORDER - Azure Kinect Standalone Mode: https://github.com/GRAP-UdL-AT/ak_sm_recorder
 .. _AK_FRAEX - Azure Kinect Frame Extractor: https://github.com/GRAP-UdL-AT/ak_frame_extractor
 
 
-Currently maintaining software packages at `Pypi.org`_.
+Currently maintaining software packages at Pypi.org.
 
 
 
@@ -78,5 +77,5 @@ Currently maintaining software packages at `Pypi.org`_.
    :glob:
    :maxdepth: 1
 
-
+   features/*
    recipes/*
