@@ -1,13 +1,28 @@
-Recipe 01
+Recipe 101 title
 ======================================
-Let us do some maths here!
 
-No proofs
----------
-We include no proofs whatsoever.
+.. image:: recipe_01_img/work_context_1.1.png
+  :width: 100%
+  :alt: Alternative text
 
-Integration
------------
+A super description about how to make something HERE. With too much words and paragraphs super super long.
 
-Remember to add concepts/trigonometry.rst to the toctree directive in your index.rst file. If you now try to recompile, you’ll get a warning:
+
+A section
+----------------------
+We include whatever you want here.
+
+A subsection
+...............
+Some text here in subsection.
+
+A subsubsection
+****************
+Some text here in subsection.
+
+
+Another section
+----------------------
+
+Remember how to make something and its explanations here.
 

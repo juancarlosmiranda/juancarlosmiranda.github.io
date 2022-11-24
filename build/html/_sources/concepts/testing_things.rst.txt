@@ -1,7 +1,41 @@
-Testing things
+Pieces of code in reStructuredText
 ======================================
 
-I don't know nothing.
+This is a template with some pieces of code/text in reStructuredText_ directives.
+.. _reStructuredText: https://docutils.sourceforge.io/rst.html
+
+.. list-table::
+   :widths: 15 15 70
+   :header-rows: 1
+
+   * - First Name
+     - Last Name
+     - Residence
+   * - Elizabeth
+     - Bennett
+     - Longbourne
+   * - Fitzwilliam
+     - Darcy
+     - Pemberley
+
+
+
+.. table:: Truth table for "not"
+   :widths: auto
+
+   ======================================  =========
+    COLUMN 01                              COLUMN 02
+   ======================================  =========
+    A value here                           Single row here.
+    True                                   False
+    .. math:: e^{i\pi} + 1 = 0             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+    True                                   False
+    True                                   False
+   ======================================  =========
+
+
+
+Defining an equation after this line.
 
 .. math:: e^{i\pi} + 1 = 0
    :label: euler
@@ -30,11 +64,6 @@ This is the name of an image IMG_20180617_123230.jpg
 
 Lorem ipsum
 
-.. code:: bash
-
-    gedit pohl.m
-
-
 .. table:: Truth table for "not"
    :widths: auto
 
@@ -57,7 +86,18 @@ Lorem ipsum
 
 .. image:: img/IMG_20180617_123230.jpg
   :width: 400
+  :align: center
   :alt: Alternative text
+
+
+.. figure:: img/IMG_20180617_123230.jpg
+  :alt: Alternative text for figure
+  :width: 400
+  :align: center
+
+  This is the caption
+
+
 
 
 This is a text in bold **Write the docs**
