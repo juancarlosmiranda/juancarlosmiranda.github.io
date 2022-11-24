@@ -3,7 +3,7 @@
    :author: Juan Carlos Miranda
    :geo.placename: Worldwide
 
-.. image:: _images/apple_orchard.png
+.. image:: images/apple_orchard.png
   :width: 100%
   :align: center
   :alt: Alternative text
