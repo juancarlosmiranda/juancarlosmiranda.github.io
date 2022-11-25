@@ -3,7 +3,7 @@
    :author: Juan Carlos Miranda
    :geo.placename: Worldwide
 
-.. image:: images/apple_orchard.png
+.. image:: myimages/apple_orchard.png
   :width: 100%
   :align: center
   :alt: Alternative text
@@ -78,6 +78,7 @@ Currently maintaining software packages at Pypi.org.
    :hidden:
    :glob:
    :maxdepth: 1
+
 
    features/*
    recipes/*
