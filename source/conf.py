@@ -14,7 +14,9 @@ exclude_patterns = []
 
 html_theme = 'press'
 
-html_static_path = ['_static']
+html_static_path = ['static']
+
+
 
 from recommonmark.parser import CommonMarkParser
 source_parsers = {
