@@ -8,6 +8,14 @@
   :align: center
   :alt: Alternative text
 
+__
+.. _AK_ACQS - Azure Kinect Acquisition System: https://github.com/GRAP-UdL-AT/ak_acquisition_system
+.. _AK_SM_RECORDER - Azure Kinect Standalone Mode: https://github.com/GRAP-UdL-AT/ak_sm_recorder
+.. _AK_FRAEX - Azure Kinect Frame Extractor: https://github.com/GRAP-UdL-AT/ak_frame_extractor
+.. _my thesis: https://www.researchgate.net/project/Thesis-Combining-the-use-of-photonic-sensors-computer-vision-and-spatial-sampling-methods-to-estimate-fruit-load
+
+
+
 Hi, I'm Juan Carlos!
 =================================================================
 Welcome to my site!. Here I try to publish what I do, that includes: notes, investigations, works, code. I hope this is useful to you, and if it is, please let me know.
@@ -15,7 +23,6 @@ Welcome to my site!. Here I try to publish what I do, that includes: notes, inve
 About me
 ======================
 I am currently a PhD student at the University of Lleida (UDL_) in the Research Group on Precision Agriculture (GRAP_) - Department of Agricultural and Forestry Engineering (EAGROF_). My work_ focuses on the application of photonic sensors, computer vision and spatial sampling methods to estimate fruit load in apple trees.
-
 
 .. _UDL: https://www.udl.cat/
 .. _GRAP: https://www.grap.udl.cat/
@@ -33,25 +40,23 @@ I am currently a PhD student at the University of Lleida (UDL_) in the Research 
 
 .. _mirandajuancar: https://twitter.com/mirandajuancar
 
+
+
+
+
 Projects
 ======================
+
 Current and past projects.
 
-* Combining the use of photonic sensors, computer vision, and spatial sampling methods to estimate fruit load. (MY_THESIS_)
+* Combining the use of photonic sensors, computer vision, and spatial sampling methods to estimate fruit load. (`my thesis`__)
 
-.. _MY_THESIS: https://www.researchgate.net/project/Thesis-Combining-the-use-of-photonic-sensors-computer-vision-and-spatial-sampling-methods-to-estimate-fruit-load
+
 
 Open source software
 ======================
 
-__
-.. _AK_ACQS - Azure Kinect Acquisition System: https://github.com/GRAP-UdL-AT/ak_acquisition_system
-.. _AK_SM_RECORDER - Azure Kinect Standalone Mode: https://github.com/GRAP-UdL-AT/ak_sm_recorder
-.. _AK_FRAEX - Azure Kinect Frame Extractor: https://github.com/GRAP-UdL-AT/ak_frame_extractor
-
-
 Currently maintaining software packages at Pypi.org.
-
 
 
 .. list-table::
@@ -67,9 +72,6 @@ Currently maintaining software packages at Pypi.org.
      - A simple GUI recorder based on Python to manage Azure Kinect camera devices in a standalone mode. ( https://pypi.org/project/ak-sm-recorder/ )
    * - `AK_FRAEX - Azure Kinect Frame Extractor`_
      - AK_FRAEX is a desktop tool created for post-processing tasks after field acquisition. It enables the extraction of information from videos recorded in MKV format with the Azure Kinect camera. Through a GUI, the user can configure initial parameters to extract frames and automatically create the necessary metadata for a set of images. ( https://pypi.org/project/ak-frame-extractor/ )
-
-
-
 
 
 .. toctree::

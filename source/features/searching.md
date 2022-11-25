@@ -1,15 +1,4 @@
-Searching the Site
-======================
+Searching the Site MARKDOWN
+============================
 
-This shiny new documentation site ships with a [search page](../search.html) *free of charge*. Thanks [Sphinx](http://www.sphinx-doc.org/en/master/)!
-
-Here is a picture to celebrate all this.
-![Hooray indeed](celebration.jpg)
-
-## More on searching
-
-You don't need any fancy backend technology for the searching.
-
-## Even more on searching
-
-Isn't searching cool?
+This is a Markdown document.
