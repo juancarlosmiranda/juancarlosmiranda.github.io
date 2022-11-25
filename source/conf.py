@@ -14,7 +14,7 @@ exclude_patterns = []
 
 html_theme = 'press'
 
-html_static_path = ['static']
+html_static_path = ['_static']
 
 
 
