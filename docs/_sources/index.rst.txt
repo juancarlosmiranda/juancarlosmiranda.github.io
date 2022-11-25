@@ -3,7 +3,7 @@
    :author: Juan Carlos Miranda
    :geo.placename: Worldwide
 
-.. image:: myimages/apple_orchard.png
+.. image:: recipes/myimages/apple_orchard.png
   :width: 100%
   :align: center
   :alt: Alternative text
@@ -15,10 +15,10 @@ __
 .. _my thesis: https://www.researchgate.net/project/Thesis-Combining-the-use-of-photonic-sensors-computer-vision-and-spatial-sampling-methods-to-estimate-fruit-load
 
 
-
 Hi, I'm Juan Carlos!
 =================================================================
 Welcome to my site!. Here I try to publish what I do, that includes: notes, investigations, works, code. I hope this is useful to you, and if it is, please let me know.
+
 
 About me
 ======================
@@ -78,6 +78,7 @@ Currently maintaining software packages at Pypi.org.
    :hidden:
    :glob:
    :maxdepth: 1
+   :caption: Contents
 
 
    features/*

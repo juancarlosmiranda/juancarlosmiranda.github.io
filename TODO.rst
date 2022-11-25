@@ -21,3 +21,8 @@ This is a *italic text*
 * Add icon favicon, add github icons.
 * Add Twitter frame.
 
+
+Tutorial: Build your first project. https://www.sphinx-doc.org/en/master/tutorial/index.html
+
+sphinx-build -b html source/ docs/
+make html
