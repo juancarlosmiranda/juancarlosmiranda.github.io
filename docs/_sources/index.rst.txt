@@ -41,9 +41,6 @@ I am currently a PhD student at the University of Lleida (UDL_) in the Research 
 .. _mirandajuancar: https://twitter.com/mirandajuancar
 
 
-
-
-
 Projects
 ======================
 
@@ -51,6 +48,11 @@ Current and past projects.
 
 * Combining the use of photonic sensors, computer vision, and spatial sampling methods to estimate fruit load. (`my thesis`__)
 
+
+Publications/ Articles/
+========================
+
+* AKFruitData: A dual software application for Azure Kinect cameras to acquire and extract informative data in yield tests performed in fruit orchard environments https://doi.org/10.1016/j.softx.2022.101231
 
 
 Open source software
@@ -72,6 +74,9 @@ Currently maintaining software packages at Pypi.org.
      - A simple GUI recorder based on Python to manage Azure Kinect camera devices in a standalone mode. ( https://pypi.org/project/ak-sm-recorder/ )
    * - `AK_FRAEX - Azure Kinect Frame Extractor`_
      - AK_FRAEX is a desktop tool created for post-processing tasks after field acquisition. It enables the extraction of information from videos recorded in MKV format with the Azure Kinect camera. Through a GUI, the user can configure initial parameters to extract frames and automatically create the necessary metadata for a set of images. ( https://pypi.org/project/ak-frame-extractor/ )
+
+
+
 
 
 .. toctree::

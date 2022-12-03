@@ -26,3 +26,7 @@ Tutorial: Build your first project. https://www.sphinx-doc.org/en/master/tutoria
 
 sphinx-build -b html source/ docs/
 make html
+
+To change folders of images and folder os static using Pycharm
+_static = codes
+_images = images
