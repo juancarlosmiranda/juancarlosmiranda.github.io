@@ -34,11 +34,15 @@ I am currently a PhD student at the University of Lleida (UDL_) in the Research 
 
 * ORCID < https://orcid.org/0000-0001-5912-9704 >
 
+* SCOPUS ID 57947116100 < https://www.scopus.com/authid/detail.uri?authorId=57947116100 >
+
 * Github < https://github.com/juancarlosmiranda/ >
 
-* Twitter < mirandajuancar_ >
+* Twitter < https://twitter.com/mirandajuancar>
 
-.. _mirandajuancar: https://twitter.com/mirandajuancar
+* Stackoverflow < https://stackoverflow.com/users/8041249/juan-carlos-miranda/ >
+
+
 
 
 Projects

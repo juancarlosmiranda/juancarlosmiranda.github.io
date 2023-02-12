@@ -6,22 +6,27 @@ release = u'0.1'
 
 
 extensions = [
-    'sphinx.ext.mathjax'
+    'sphinx.ext.mathjax',
+    'myst_parser'
 ]
 
 templates_path = ['_templates']
 exclude_patterns = []
 
 html_theme = 'press'
-
 html_static_path = ['_static']
 
 
 
-from recommonmark.parser import CommonMarkParser
-source_parsers = {
-    '.md': CommonMarkParser
+#from recommonmark.parser import CommonMarkParser
+#source_parsers = {
+#    '.md': CommonMarkParser
+#}
+
+# source_suffix = ['.rst', '.md']
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'markdown',
+    '.md': 'markdown',
 }
-
-source_suffix = ['.rst', '.md']
-
