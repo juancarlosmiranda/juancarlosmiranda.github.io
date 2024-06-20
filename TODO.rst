@@ -20,9 +20,10 @@ This is a *italic text*
 * Add math equations.
 * Add icon favicon, add github icons.
 * Add Twitter frame.
+* Add share articles by social media.
+* Add Google robot file.
 
 
-Tutorial: Build your first project. https://www.sphinx-doc.org/en/master/tutorial/index.html
 
 sphinx-build -b html source/ docs/
 make html
@@ -30,3 +31,7 @@ make html
 To change folders of images and folder os static using Pycharm
 _static = codes
 _images = images
+
+stars
+https://img.shields.io/github/stars/juancarlosmiranda/azure_kinect_notes.svg?style=flat&label=Star&maxAge=86400
+https://img.shields.io/github/stars/juancarlosmiranda/azure_kinect_notes.svg?style=social

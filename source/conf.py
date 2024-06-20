@@ -13,7 +13,8 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = []
 
-html_theme = 'press'
+html_theme = 'sphinx_rtd_theme'
+#html_theme = 'press'
 html_static_path = ['_static']
 
 
