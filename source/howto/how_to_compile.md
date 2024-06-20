@@ -59,3 +59,12 @@ Change manually static references inside .html files.
         <script src="codes/doctools.js"></script>
         <script src="codes/sphinx_highlight.js"></script>
 ```
+
+
+```
+git init
+git remote add origin git@github.com:juancarlosmiranda/juancarlosmiranda.github.io.git
+git branch -M master
+git add .
+
+```
