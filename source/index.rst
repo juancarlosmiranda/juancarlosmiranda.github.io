@@ -6,7 +6,7 @@
 .. image:: _images/apple_orchard.png
   :width: 100%
   :align: center
-  :alt: Alternative text
+  :alt: :)
 
 
 About me :)
