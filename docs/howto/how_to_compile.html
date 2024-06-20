@@ -5,20 +5,20 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>How To Compile this Site &mdash; Juan Carlos blog&#39;s 0.1 documentation</title>
-      <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=80d5e7a1" />
-      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css?v=19f00094" />
+      <link rel="stylesheet" type="text/css" href="../codes/pygments.css?v=80d5e7a1" />
+      <link rel="stylesheet" type="text/css" href="../codes/css/theme.css?v=19f00094" />
 
   
   <!--[if lt IE 9]>
-    <script src="../_static/js/html5shiv.min.js"></script>
+    <script src="../codes/js/html5shiv.min.js"></script>
   <![endif]-->
   
-        <script src="../_static/jquery.js?v=5d32c60e"></script>
-        <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-        <script src="../_static/documentation_options.js?v=2709fde1"></script>
-        <script src="../_static/doctools.js?v=9a2dae69"></script>
-        <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
-    <script src="../_static/js/theme.js"></script>
+        <script src="../codes/jquery.js?v=5d32c60e"></script>
+        <script src="../codes/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+        <script src="../codes/documentation_options.js?v=2709fde1"></script>
+        <script src="../codes/doctools.js?v=9a2dae69"></script>
+        <script src="../codes/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../codes/js/theme.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="prev" title="Massive Online Open Courses (MOOCs)" href="../contents/mooc_list.html" /> 
@@ -132,6 +132,16 @@
 <p>Compile the source code into HTML by applying the following:</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">sphinx</span><span class="o">-</span><span class="n">build</span> <span class="o">-</span><span class="n">b</span> <span class="n">html</span> <span class="n">source</span><span class="o">/</span> <span class="n">docs</span><span class="o">/</span>
 <span class="n">make</span> <span class="n">html</span>
+</pre></div>
+</div>
+<p>Change manually static references inside .html files.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>      &lt;!-- sphinx script_files --&gt;
+        &lt;script data-url_root=&quot;./&quot; id=&quot;documentation_options&quot; src=&quot;codes/documentation_options.js&quot;&gt;&lt;/script&gt;
+        &lt;script src=&quot;codes/jquery.js&quot;&gt;&lt;/script&gt;
+        &lt;script src=&quot;codes/underscore.js&quot;&gt;&lt;/script&gt;
+        &lt;script src=&quot;codes/_sphinx_javascript_frameworks_compat.js&quot;&gt;&lt;/script&gt;
+        &lt;script src=&quot;codes/doctools.js&quot;&gt;&lt;/script&gt;
+        &lt;script src=&quot;codes/sphinx_highlight.js&quot;&gt;&lt;/script&gt;
 </pre></div>
 </div>
 </section>

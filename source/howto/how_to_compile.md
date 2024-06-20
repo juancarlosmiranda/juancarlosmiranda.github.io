@@ -48,3 +48,14 @@ Compile the source code into HTML by applying the following:
 sphinx-build -b html source/ docs/
 make html
 ```
+
+Change manually static references inside .html files.
+```
+      <!-- sphinx script_files -->
+        <script data-url_root="./" id="documentation_options" src="codes/documentation_options.js"></script>
+        <script src="codes/jquery.js"></script>
+        <script src="codes/underscore.js"></script>
+        <script src="codes/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="codes/doctools.js"></script>
+        <script src="codes/sphinx_highlight.js"></script>
+```
