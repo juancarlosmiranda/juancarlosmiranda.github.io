@@ -35,24 +35,30 @@ A curated list of free/open access libraries and books.
 * [MIT Open Learning](https://openlearning.mit.edu/).
 * [Standford Online, free online courses](https://online.stanford.edu/free-courses).
 * [Open Source Society University](https://github.com/ossu).
-*
+* [UPV EDX](https://upvx.es/).
 
 ### Earth Sciences
 * [ECMWF Learning Platform](https://learning.ecmwf.int/).
 * [Earth Lab. Learn to use earth science and other data in R and Python](https://www.earthdatascience.org/).
 
-### Interviews, competitive programming
+### Interviews, programming, software development, competitive programming
 * [Code Forces](https://codeforces.com/). Competitive programing problems.
 * [Dev.to](https://dev.to/).
 * [Kaggle](https://www.kaggle.com/).
 * [Hacker Noon](https://hackernoon.com/).
 * [Leetcode](https://leetcode.com/). It is a platform to exapand knowledge and prepare for technical interviews.
+* [Logic Mojo](https://logicmojo.com/).
+* [CodignGame](https://www.codingame.com).
+* [OPENEDG](https://openedg.org/).
+* [CODE REFINERY](https://coderefinery.org/). We train you in research software development.
 
 ### Big Tech Companies
 * [IBM Training](https://www.ibm.com/training/).
 * [CISCO Network Academy](https://www.netacad.com/).
+* [Grow with Google](https://grow.google/)
 * [Microsoft. Learn Microsoft](https://learn.microsoft.com/en-us/).
 * [Oracle Education](https://education.oracle.com/es/).
+* [Oracle Academy](https://learn.oracle.com/).
 
 ## Courses by Topic
 ### Artificial Intelligence
@@ -134,9 +140,16 @@ A curated list of free/open access libraries and books.
   .
 * [Fundamentals of Heterogeneous Parallel Programming with CUDA C/C++](https://education.molssi.org/gpu_programming_beginner/)
   . | https://github.com/MolSSI-Education/gpu_programming_beginner
+  
+  
+#### Python
+* 
 
 ### Algorithms, Data Sctructure Algorithms (DSA)
 * [Rosetta Code](http://www.rosettacode.org). Solutions to the same task in as many different languages.
+
+### Web development
+* [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/).
 
 ### CI/CD, Git, devops, cloud
 * [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/).

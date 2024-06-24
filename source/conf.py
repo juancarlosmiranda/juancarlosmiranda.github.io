@@ -14,17 +14,7 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
-#html_theme = 'press'
-html_static_path = ['mystatic']
-
-
-
-#from recommonmark.parser import CommonMarkParser
-#source_parsers = {
-#    '.md': CommonMarkParser
-#}
-
-# source_suffix = ['.rst', '.md']
+#html_static_path = ['docs/mystatic']
 
 source_suffix = {
     '.rst': 'restructuredtext',

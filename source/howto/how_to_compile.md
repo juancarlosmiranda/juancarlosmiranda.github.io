@@ -8,6 +8,7 @@ Tutorials:
 * [Sphinx Themes Sample](https://sphinx-themes.org/sample-sites/sphinx-rtd-theme/). This site provides information about Sphinx Themes options.
 * [Using Sphinx with Markdown instead of reST](https://stackoverflow.com/questions/2471804/using-sphinx-with-markdown-instead-of-rest). StackOverflow site with informations regarding to Sphinx.
 * [Getting started with Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html).
+* [How to document your research software](https://coderefinery.github.io/documentation/).
 
 Examples and configurations:
 * [Sphinx Themes - Alabaster Sample](https://sphinx-themes.org/sample-sites/default-alabaster/). A good sample to start with.
@@ -49,7 +50,7 @@ sphinx-build -b html source/ docs/
 make html
 ```
 
-Change manually static references inside .html files.
+Change manually static references inside .html files. ```_static``` by ```mystatic```.
 ```
       <!-- sphinx script_files -->
         <script data-url_root="./" id="documentation_options" src="codes/documentation_options.js"></script>
@@ -68,3 +69,5 @@ git branch -M master
 git add .
 
 ```
+
+https://stackoverflow.com/questions/70739677/sphinx-html-static-path-entry-does-not-exist
