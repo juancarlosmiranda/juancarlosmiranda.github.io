@@ -8,6 +8,13 @@ Lists, links, books, retro operating systems.
 
 ..
 
+```{questions}
+- How can different types of functions and classes be tested?
+- How can the integrity of a complete program be monitored over time?
+- How can functions that involve random numbers be tested?
+```
+
+
 ## Table of Contents
 - [Books](#books)
 - [Courses](#courses)

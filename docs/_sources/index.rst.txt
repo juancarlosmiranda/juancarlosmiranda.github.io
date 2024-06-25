@@ -41,3 +41,11 @@ During my PhD, my work focused on the application of photonic sensors, computer 
    :caption: How To
 
    howto/*
+
+.. toctree::
+   :hidden:
+   :glob:
+   :maxdepth: 2
+   :caption: By topic
+
+   by_topic/*

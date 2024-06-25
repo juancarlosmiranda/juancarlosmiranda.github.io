@@ -6,6 +6,7 @@ Tutorials:
 * [Sphinx Tutorial: Build your first project](https://www.sphinx-doc.org/en/master/tutorial/index.html).
 * [Creating your own documentation site with Sphinx and Slate](https://medium.com/@christianhettlage/creating-your-own-documentation-site-with-sphinx-6687391a5c92). A well explained tutorial on how to set up Sphinx for the first time. 
 * [Sphinx Themes Sample](https://sphinx-themes.org/sample-sites/sphinx-rtd-theme/). This site provides information about Sphinx Themes options.
+* [Read the Docs Sphinx Theme](https://sphinx-rtd-theme.readthedocs.io/en/stable/). Live demo with supported elements.
 * [Using Sphinx with Markdown instead of reST](https://stackoverflow.com/questions/2471804/using-sphinx-with-markdown-instead-of-rest). StackOverflow site with informations regarding to Sphinx.
 * [Getting started with Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html).
 * [How to document your research software](https://coderefinery.github.io/documentation/).
@@ -47,6 +48,7 @@ Modify the files you want in ```./source/``` folder.
 Compile the source code into HTML by applying the following:
 ```
 sphinx-build -b html source/ docs/
+make clean
 make html
 ```
 
@@ -70,4 +72,9 @@ git add .
 
 ```
 
+# How to solve problem with "_static" directory
+Add an empty file called ```.nojekyll``` in the root directory.
+[How to change theme output directory from _static to static](https://github.com/sphinx-doc/sphinx/issues/2202).
 https://stackoverflow.com/questions/70739677/sphinx-html-static-path-entry-does-not-exist
+
+Tabs [Sphinx Tabs](https://sphinx-tabs.readthedocs.io/en/latest/)

@@ -21,6 +21,7 @@
     <script src="../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Awesome Art of Memory:" href="../by_topic/art_of_memory_list_01.html" />
     <link rel="prev" title="Massive Online Open Courses (MOOCs)" href="../contents/mooc_list.html" /> 
 </head>
 
@@ -58,6 +59,12 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="#content-management">Content management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#how-to-solve-problem-with-static-directory">How to solve problem with “_static” directory</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">By topic</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../by_topic/art_of_memory_list_01.html">Awesome Art of Memory: </a></li>
+<li class="toctree-l1"><a class="reference internal" href="../by_topic/operating_system_list_01.html">Awesome Operating Systems: </a></li>
 </ul>
 
         </div>
@@ -92,6 +99,7 @@
 <li><p><a class="reference external" href="https://www.sphinx-doc.org/en/master/tutorial/index.html">Sphinx Tutorial: Build your first project</a>.</p></li>
 <li><p><a class="reference external" href="https://medium.com/&#64;christianhettlage/creating-your-own-documentation-site-with-sphinx-6687391a5c92">Creating your own documentation site with Sphinx and Slate</a>. A well explained tutorial on how to set up Sphinx for the first time.</p></li>
 <li><p><a class="reference external" href="https://sphinx-themes.org/sample-sites/sphinx-rtd-theme/">Sphinx Themes Sample</a>. This site provides information about Sphinx Themes options.</p></li>
+<li><p><a class="reference external" href="https://sphinx-rtd-theme.readthedocs.io/en/stable/">Read the Docs Sphinx Theme</a>. Live demo with supported elements.</p></li>
 <li><p><a class="reference external" href="https://stackoverflow.com/questions/2471804/using-sphinx-with-markdown-instead-of-rest">Using Sphinx with Markdown instead of reST</a>. StackOverflow site with informations regarding to Sphinx.</p></li>
 <li><p><a class="reference external" href="https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html">Getting started with Sphinx</a>.</p></li>
 <li><p><a class="reference external" href="https://coderefinery.github.io/documentation/">How to document your research software</a>.</p></li>
@@ -132,6 +140,7 @@
 <p>Modify the files you want in <code class="docutils literal notranslate"><span class="pre">./source/</span></code> folder.</p>
 <p>Compile the source code into HTML by applying the following:</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">sphinx</span><span class="o">-</span><span class="n">build</span> <span class="o">-</span><span class="n">b</span> <span class="n">html</span> <span class="n">source</span><span class="o">/</span> <span class="n">docs</span><span class="o">/</span>
+<span class="n">make</span> <span class="n">clean</span>
 <span class="n">make</span> <span class="n">html</span>
 </pre></div>
 </div>
@@ -152,7 +161,13 @@
 
 </pre></div>
 </div>
-<p>https://stackoverflow.com/questions/70739677/sphinx-html-static-path-entry-does-not-exist</p>
+</section>
+<section id="how-to-solve-problem-with-static-directory">
+<h1>How to solve problem with “_static” directory<a class="headerlink" href="#how-to-solve-problem-with-static-directory" title="Link to this heading"></a></h1>
+<p>Add an empty file called <code class="docutils literal notranslate"><span class="pre">.nojekyll</span></code> in the root directory.
+<a class="reference external" href="https://github.com/sphinx-doc/sphinx/issues/2202">How to change theme output directory from _static to static</a>.
+https://stackoverflow.com/questions/70739677/sphinx-html-static-path-entry-does-not-exist</p>
+<p>Tabs <a class="reference external" href="https://sphinx-tabs.readthedocs.io/en/latest/">Sphinx Tabs</a></p>
 </section>
 
 
@@ -160,6 +175,7 @@
           </div>
           <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
         <a href="../contents/mooc_list.html" class="btn btn-neutral float-left" title="Massive Online Open Courses (MOOCs)" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../by_topic/art_of_memory_list_01.html" class="btn btn-neutral float-right" title="Awesome Art of Memory:" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
     </div>
 
   <hr/>
