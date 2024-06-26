@@ -14,18 +14,23 @@ A curated list of List of free/open access libraries and books.
 ## Open Libraries
 
 ### Open Libraries in English
-* [Tech-Interview: Important Topics and Techniques](https://github.com/Coder-World04/Tech-Interview-Important-Topics-and-Techniques). 
+* [Books Learning Room Santander](https://learningroom.becas-santander.com/).
+* [FreeTechBooks](http://www.freetechbooks.com/). Database of Free/ Open Access Online Computer Science Books.
+* [PRESSBOOKS](https://pressbooks.directory/). Pressbooks Directory is a free, searchable catalog.
 * [openIntro](https://www.openintro.org/).
 * [openstax](https://openstax.org/).
-* [Books Learning Room Santander](https://learningroom.becas-santander.com/).
-* [Libros Maravillosos](http://www.librosmaravillosos.com).
-* [FreeTechBooks](http://www.freetechbooks.com/). Database of Free/ Open Access Online Computer Science Books. 
+
 
 ### Open Libraries in Spanish
+* [Libros Maravillosos](http://www.librosmaravillosos.com).
 * [Publicaciones Electrónicas de la Sociedad Matemática Mexicana](https://www.pesmm.org.mx/).
 
 
 ## Books
+
+### Academic Resarch
+* [Critical Thinking ni Academic Research - Second Edition](https://minnstate.pressbooks.pub/ctar2/).
+
 
 ### Algorithms, Data Structures Algorithms (DSA)
 * [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/).
@@ -34,7 +39,6 @@ A curated list of List of free/open access libraries and books.
 * [Open Data Strucutres](http://opendatastructures.org/).
 * [Super Study Guide Algorithms & Data Structures](https://superstudy.guide/algorithms-data-structures/).
 * [Algorithms](https://labuladong.gitbook.io/algo-en).
-* 
 
 ### Computer Programming
 * [Learning Scientific Programming with Python](https://scipython.com/about/the-book/)

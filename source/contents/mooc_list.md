@@ -39,7 +39,8 @@ A curated list of free/open access libraries and books.
 
 ### Earth Sciences
 * [ECMWF Learning Platform](https://learning.ecmwf.int/).
-* [Earth Lab. Learn to use earth science and other data in R and Python](https://www.earthdatascience.org/).
+* [Earth Lab. Learn to use earth science and other data in R and Python]
+* [IBM SkillsBuild](https://www.earthdatascience.org/).
 
 ### Interviews, programming, software development, competitive programming
 * [Code Forces](https://codeforces.com/). Competitive programing problems.
@@ -54,6 +55,7 @@ A curated list of free/open access libraries and books.
 
 ### Big Tech Companies
 * [IBM Training](https://www.ibm.com/training/).
+* (https://skills.yourlearning.ibm.com).
 * [CISCO Network Academy](https://www.netacad.com/).
 * [Grow with Google](https://grow.google/)
 * [Microsoft. Learn Microsoft](https://learn.microsoft.com/en-us/).
@@ -162,6 +164,11 @@ A curated list of free/open access libraries and books.
 
 ### Teledetection, satellital images
 * [Applied NASA Training](https://appliedsciences.nasa.gov/get-involved/training/).
+
+
+### Tech interviews
+* [Tech-Interview: Important Topics and Techniques](https://github.com/Coder-World04/Tech-Interview-Important-Topics-and-Techniques). 
+
 
 ## Licenses
 
