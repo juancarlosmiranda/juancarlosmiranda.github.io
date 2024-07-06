@@ -12,7 +12,7 @@ A curated list of free/open access libraries and books.
 
 ## Online platforms for learning
 * [AI Campus](https://ki-campus.org/).
-* [AI on Deamand](https://www.ai4europe.eu/).
+* [AI on Demand](https://www.ai4europe.eu/).
 * [BIDAcademy. Academia Banco Interamericano de Desarrollo](https://cursos.iadb.org/en).
 * [DAIR:AI. Democratizing Artificial Intelligence Research, Education and Technologies](https://github.com/dair-ai).
 
@@ -29,6 +29,8 @@ A curated list of free/open access libraries and books.
 * [The Forage](https://www.theforage.com/).
 * [The Linux foundation](https://trainingportal.linuxfoundation.org).
 * [Udacity](https://www.udacity.com/).
+* [Cognitive Class AI](https://cognitiveclass.ai/).
+* [CertiProf free certifications][https://certiprof.com/pages/free-new-entry-level-certification]
 
 ### Open access courses offered by universities
 * [MIT OpenCourseWare](https://ocw.mit.edu/).
@@ -39,7 +41,8 @@ A curated list of free/open access libraries and books.
 
 ### Earth Sciences
 * [ECMWF Learning Platform](https://learning.ecmwf.int/).
-* [Earth Lab. Learn to use earth science and other data in R and Python](https://www.earthdatascience.org/).
+* [Earth Lab. Learn to use earth science and other data in R and Python]
+* [IBM SkillsBuild](https://www.earthdatascience.org/).
 
 ### Interviews, programming, software development, competitive programming
 * [Code Forces](https://codeforces.com/). Competitive programing problems.
@@ -54,6 +57,7 @@ A curated list of free/open access libraries and books.
 
 ### Big Tech Companies
 * [IBM Training](https://www.ibm.com/training/).
+* (https://skills.yourlearning.ibm.com).
 * [CISCO Network Academy](https://www.netacad.com/).
 * [Grow with Google](https://grow.google/)
 * [Microsoft. Learn Microsoft](https://learn.microsoft.com/en-us/).
@@ -71,6 +75,9 @@ A curated list of free/open access libraries and books.
 ### Data Science
 * [Curso de Data Science](https://www.santanderopenacademy.com/es/courses/introduction-to-data-science.html).
 * [Data Science for Ecologist and Environmental Scientist](https://ourcodingclub.github.io/).
+* [Data Science Fundamentals](https://cognitiveclass.ai/learn/data-science).
+* [Data Science Foundations](https://www.codecademy.com/learn/paths/data-science-foundations).
+
 
 ### Deep Learning
 * [Networks for Learning: Regression and Classification](https://ocw.mit.edu/courses/9-520-a-networks-for-learning-regression-and-classification-spring-2001/)
@@ -109,6 +116,11 @@ A curated list of free/open access libraries and books.
 * [MITx: Probability - The Science of Uncertainty and Data](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data)
   .
 * [Statistics and Probability contents. Tech yourself statistics](https://stattrek.com/).
+
+### Scrum methodology
+* [Scrum Foundations](https://www.agile-academy.com/en/agile-insights/scrum-foundations-online-course/).
+* [Scrum Guides](https://scrumguides.org/).
+* 
 
 ### Remote Sensing
 * [Remote sensing](https://es.coursera.org/learn/remote-sensing).
@@ -162,6 +174,11 @@ A curated list of free/open access libraries and books.
 
 ### Teledetection, satellital images
 * [Applied NASA Training](https://appliedsciences.nasa.gov/get-involved/training/).
+
+
+### Tech interviews
+* [Tech-Interview: Important Topics and Techniques](https://github.com/Coder-World04/Tech-Interview-Important-Topics-and-Techniques). 
+
 
 ## Licenses
 
