@@ -19,7 +19,9 @@ A curated list of List of free/open access libraries and books.
 * [PRESSBOOKS](https://pressbooks.directory/). Pressbooks Directory is a free, searchable catalog.
 * [openIntro](https://www.openintro.org/).
 * [openstax](https://openstax.org/).
-
+* [aopen Library](https://library.oapen.org). OAPEN promotes and supports the transition to open access for academic books by providing open infrastructure services to stakeholders in scholarly communication.
+* [ScienceOPEN.com research+.publishing network](https://www.scienceopen.com/). ScienceOpen is a discovery platform with interactive features for scholars to enhance their research in the open, make an impact, and receive credit for it.
+* [AUTHOREA](https://www.authorea.com/). Discover and publish cutting edge, open research.
 
 ### Open Libraries in Spanish
 * [Libros Maravillosos](http://www.librosmaravillosos.com).
@@ -91,6 +93,7 @@ A curated list of List of free/open access libraries and books.
 * [Statistics for Research Students](https://open.umn.edu/opentextbooks/textbooks/1191).
 * [Statistical Methods for the Analysis of Repeated Measurements](https://link.springer.com/book/10.1007/b97287).
 * [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/index.html).
+* [Understanding Statistics and Experimental Design, How to Not Lie with Statistics](https://link.springer.com/book/10.1007/978-3-030-03499-3).  Michael H. Herzog , Gregory Francis , Aaron Clarke. This open access textbook provides the background needed to correctly use, interpret and understand statistics and statistical data in diverse settings. 
 
 ## Licenses
 

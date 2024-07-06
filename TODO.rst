@@ -22,6 +22,7 @@ This is a *italic text*
 * Add Twitter frame.
 * Add share articles by social media.
 * Add Google robot file.
+* Add tabs por different languages.
 - [x] Create
 
 
