@@ -43,6 +43,7 @@ A curated list of List of free/open access libraries and books.
 * [Algorithms](https://labuladong.gitbook.io/algo-en).
 
 ### Computer Programming
+* [Developer Roadmaps](https://roadmap.sh/). Developers Roadmaps about technologies.
 * [Learning Scientific Programming with Python](https://scipython.com/about/the-book/)
 * [Think Python, 3rd edition](https://greenteapress.com/wp/think-python-3rd-edition/).
 * [ompetitive Programmer's Handbook](https://cses.fi/book.pdf).

@@ -165,6 +165,7 @@ A curated list of free/open access libraries and books.
 
 ### CI/CD, Git, devops, cloud
 * [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/).
+* [Git BRanch](https://learngitbranching.js.org/).
 * [Docker resources](https://www.docker.com/blog/how-to-dockerize-your-python-applications/).
 
 ### Robotics
