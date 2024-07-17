@@ -52,17 +52,6 @@ make clean
 make html
 ```
 
-Change manually static references inside .html files. ```_static``` by ```mystatic```.
-```
-      <!-- sphinx script_files -->
-        <script data-url_root="./" id="documentation_options" src="codes/documentation_options.js"></script>
-        <script src="codes/jquery.js"></script>
-        <script src="codes/underscore.js"></script>
-        <script src="codes/_sphinx_javascript_frameworks_compat.js"></script>
-        <script src="codes/doctools.js"></script>
-        <script src="codes/sphinx_highlight.js"></script>
-```
-
 
 ```
 git init
@@ -76,5 +65,16 @@ git add .
 Add an empty file called ```.nojekyll``` in the root directory.
 [How to change theme output directory from _static to static](https://github.com/sphinx-doc/sphinx/issues/2202).
 https://stackoverflow.com/questions/70739677/sphinx-html-static-path-entry-does-not-exist
+
+The link above avoids manually changing static references within .html files. ```_static``` by ```mystatic```.
+```
+      <!-- sphinx script_files -->
+        <script data-url_root="./" id="documentation_options" src="codes/documentation_options.js"></script>
+        <script src="codes/jquery.js"></script>
+        <script src="codes/underscore.js"></script>
+        <script src="codes/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="codes/doctools.js"></script>
+        <script src="codes/sphinx_highlight.js"></script>
+```
 
 Tabs [Sphinx Tabs](https://sphinx-tabs.readthedocs.io/en/latest/)
