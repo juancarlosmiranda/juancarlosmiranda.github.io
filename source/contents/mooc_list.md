@@ -31,6 +31,7 @@ A curated list of free/open access libraries and books.
 * [Udacity](https://www.udacity.com/).
 * [Cognitive Class AI](https://cognitiveclass.ai/).
 * [CertiProf free certifications][https://certiprof.com/pages/free-new-entry-level-certification]
+* [SimpliLearn](https://www.simplilearn.com/).
 
 ### Open access courses offered by universities
 * [MIT OpenCourseWare](https://ocw.mit.edu/).
@@ -116,6 +117,8 @@ A curated list of free/open access libraries and books.
 * [MITx: Probability - The Science of Uncertainty and Data](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data)
   .
 * [Statistics and Probability contents. Tech yourself statistics](https://stattrek.com/).
+
+[HARVARD UNIVERSITY - Data Science Courses](https://pll.harvard.edu/catalog?topics%5B714%5D=714&price%5B1%5D=1&max_price=&keywords=&page=1)
 
 ### Scrum methodology
 * [Scrum Foundations](https://www.agile-academy.com/en/agile-insights/scrum-foundations-online-course/).
