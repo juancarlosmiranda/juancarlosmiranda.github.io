@@ -60,6 +60,9 @@ A curated list of List of free/open access libraries and books.
 * [Deep Learning Foundations and Concepts (online)](https://www.bishopbook.com/).
 * [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360).
 
+### Data Science
+* [Elements of Data Science](https://www.allendowney.com/blog/2024/07/17/elements-of-data-science/)
+
 ### Maths
 * [Interactive Linear AlGebra](https://textbooks.math.gatech.edu/ila/)
 
@@ -94,7 +97,9 @@ A curated list of List of free/open access libraries and books.
 * [Statistics for Research Students](https://open.umn.edu/opentextbooks/textbooks/1191).
 * [Statistical Methods for the Analysis of Repeated Measurements](https://link.springer.com/book/10.1007/b97287).
 * [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/index.html).
-* [Understanding Statistics and Experimental Design, How to Not Lie with Statistics](https://link.springer.com/book/10.1007/978-3-030-03499-3).  Michael H. Herzog , Gregory Francis , Aaron Clarke. This open access textbook provides the background needed to correctly use, interpret and understand statistics and statistical data in diverse settings. 
+* [Understanding Statistics and Experimental Design, How to Not Lie with Statistics](https://link.springer.com/book/10.1007/978-3-030-03499-3).  Michael H. Herzog , Gregory Francis , Aaron Clarke. This open access textbook provides the background needed to correctly use, interpret and understand statistics and statistical data in diverse settings.
+* [An Introduction to Statistical Learning](https://www.statlearning.com/).Gareth JAmes, Daniela Witten, Trevor Hastie, Robert Tibshirani. An Introduction to Statistical Learning with Applications in R (ISLR). An Introduction to Statistical Learning with Applications in Python (ISLP).
+*
 
 ## Licenses
 
