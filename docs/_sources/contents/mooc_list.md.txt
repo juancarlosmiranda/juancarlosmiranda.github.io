@@ -160,6 +160,12 @@ A curated list of free/open access libraries and books.
 #### Python
 * 
 
+### Competitive Programming
+* CodeForce
+* LeetCode
+* USACO.
+* AtCode
+
 ### Algorithms, Data Sctructure Algorithms (DSA)
 * [Rosetta Code](http://www.rosettacode.org). Solutions to the same task in as many different languages.
 
