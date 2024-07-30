@@ -5,14 +5,9 @@
 
 <p> I am a computer engineer with experience in academia, the software industry and the financial sector. Throughout my professional career, I have held various positions, including infrastructure support technician, software developer, database administrator, and information security specialist. My doctoral research has focused on the characterization and classification of fruits through the application of artificial intelligence techniques, digital image processing and computer vision. I have developed AI tools for fruit identification and classification, having worked with oranges and apples. </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juancarlosmiranda&label=Profile%20views&color=0e75b6&style=flat" alt="juancarlosmiranda" /> </p>
-
-<p align="left"> <a href="https://x.com/mirandajuancar" target="blank"><img src="https://img.shields.io/twitter/follow/mirandajuancar?logo=twitter&style=for-the-badge" alt="mirandajuancar" /></a> </p>
-
 Welcome to my site!
 Here I try to publish what I do, that includes: notes, works, code. I hope this is useful to you, and if it is, please let me know.
 
-<h3 align="left">Academic profile:</h3>
 * [Researchgate https://www.researchgate.net/profile/Juan-Miranda-6](https://www.researchgate.net/profile/Juan-Miranda-6)
 * [Scholar.Google:](https://scholar.google.com/citations?hl=es&user=B2f3BHYAAAA)
 * [ORCID: 0000-0001-5912-9704](https://orcid.org/0000-0001-5912-9704)
@@ -37,6 +32,7 @@ Here I try to publish what I do, that includes: notes, works, code. I hope this 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juancarlosmiranda&" alt="juancarlosmiranda" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juancarlosmiranda&label=Profile%20views&color=0e75b6&style=flat" alt="juancarlosmiranda" /> </p>
 
 ```{eval-rst}
 

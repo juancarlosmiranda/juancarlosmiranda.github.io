@@ -37,3 +37,7 @@ _images = images
 stars
 https://img.shields.io/github/stars/juancarlosmiranda/azure_kinect_notes.svg?style=flat&label=Star&maxAge=86400
 https://img.shields.io/github/stars/juancarlosmiranda/azure_kinect_notes.svg?style=social
+
+
+
+For icons. https://devicon.dev/
