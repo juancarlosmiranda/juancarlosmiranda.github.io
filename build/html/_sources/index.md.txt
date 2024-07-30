@@ -3,9 +3,12 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos Miranda</h1>
 <h3 align="center">Computer Engineer | Computer Science | Agricultural and Food Science and Technology. Computer Engineer with experience in Machine Learning and Computer Vision in agriculture</h3>
 
-<p> I am a computer engineer with experience in academia, the software industry and the financial sector. Throughout my professional career, I have held various positions, including infrastructure support technician, software developer, database administrator, and information security specialist. My doctoral research has focused on the characterization and classification of fruits through the application of artificial intelligence techniques, digital image processing and computer vision. I have developed AI tools for fruit identification and classification, having worked with oranges and apples. </p>
+I am a computer engineer with experience in academia, the software industry and the financial sector. Throughout my professional career, I have held various positions, including infrastructure support technician, software developer, database administrator, and information security specialist. 
+
+My doctoral research has focused on the characterization and classification of fruits through the application of artificial intelligence techniques, digital image processing and computer vision. I have developed AI tools for fruit identification and classification, having worked with oranges and apples.
 
 Welcome to my site!
+
 Here I try to publish what I do, that includes: notes, works, code. I hope this is useful to you, and if it is, please let me know.
 
 * [Researchgate https://www.researchgate.net/profile/Juan-Miranda-6](https://www.researchgate.net/profile/Juan-Miranda-6)
@@ -15,13 +18,11 @@ Here I try to publish what I do, that includes: notes, works, code. I hope this 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/mirandajuancar" target="blank"><img align="center" src="https://raw.githubusercontent.com/juancarlosmiranda/juancarlosmiranda.github.io/master/source/images/x_logo.png" alt="mirandajuancar" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/juan-carlos-miranda-py" target="blank"><img align="center" src="https://raw.githubusercontent.com/juancarlosmiranda/juancarlosmiranda.github.io/master/source/images/linked-in-alt.svg" alt="juan-carlos-miranda-py" height="30" width="30" /></a>
+<a href="https://x.com/mirandajuancar" target="blank"><img align="center" src="https://raw.githubusercontent.com/juancarlosmiranda/juancarlosmiranda.github.io/master/source/images/x_logo.png" alt="mirandajuancar" height="30" width="30" /></a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
-
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
