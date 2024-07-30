@@ -1,3 +1,4 @@
+# About me :)
 
 <h1 align="center">Hi 👋, I'm Juan Carlos Miranda</h1>
 <h3 align="center">Computer Engineer | Computer Science | Agricultural and Food Science and Technology. Computer Engineer with experience in Machine Learning and Computer Vision in agriculture</h3>
@@ -8,27 +9,19 @@
 
 <p align="left"> <a href="https://x.com/mirandajuancar" target="blank"><img src="https://img.shields.io/twitter/follow/mirandajuancar?logo=twitter&style=for-the-badge" alt="mirandajuancar" /></a> </p>
 
-
-# About me :)
-
 Welcome to my site!
-
 Here I try to publish what I do, that includes: notes, works, code. I hope this is useful to you, and if it is, please let me know.
-During my PhD, my work focused on the application of photonic sensors, computer vision and fruit load estimation in apple trees.
 
+<h3 align="left">Academic profile:</h3>
 * [Researchgate https://www.researchgate.net/profile/Juan-Miranda-6](https://www.researchgate.net/profile/Juan-Miranda-6)
 * [Scholar.Google:](https://scholar.google.com/citations?hl=es&user=B2f3BHYAAAA)
 * [ORCID: 0000-0001-5912-9704](https://orcid.org/0000-0001-5912-9704)
 * [SCOPUS ID 57947116100 https://www.scopus.com/authid/detail.uri?authorId=57947116100](https://www.scopus.com/authid/detail.uri?authorId=57947116100)
-* [LinkedIn: https://www.linkedin.com/in/juan-carlos-miranda-py](https://www.linkedin.com/in/juan-carlos-miranda-py)
-* [Github: https://github.com/juancarlosmiranda/](https://github.com/juancarlosmiranda/)
-* [X.com: @mirandajuancar](https://x.com/mirandajuancar)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/mirandajuancar" target="blank"><img align="center" src="https://raw.githubusercontent.com/juancarlosmiranda/juancarlosmiranda.github.io/master/source/images/x_logo.png" alt="mirandajuancar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juan-carlos-miranda-py" target="blank"><img align="center" src="https://raw.githubusercontent.com/juancarlosmiranda/juancarlosmiranda.github.io/master/source/images/linked-in-alt.svg" alt="juan-carlos-miranda-py" height="30" width="40" /></a>
+<a href="https://x.com/mirandajuancar" target="blank"><img align="center" src="https://raw.githubusercontent.com/juancarlosmiranda/juancarlosmiranda.github.io/master/source/images/x_logo.png" alt="mirandajuancar" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/juan-carlos-miranda-py" target="blank"><img align="center" src="https://raw.githubusercontent.com/juancarlosmiranda/juancarlosmiranda.github.io/master/source/images/linked-in-alt.svg" alt="juan-carlos-miranda-py" height="30" width="30" /></a>
 </p>
 
 
