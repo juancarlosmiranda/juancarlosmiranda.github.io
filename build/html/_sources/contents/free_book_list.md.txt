@@ -8,8 +8,8 @@ A curated list of List of free/open access libraries and books.
 
 ## Table of Contents
 
-- [Open Libraries](#open-libraries)
-- [Books](#books)
+- [Open Libraries]
+- [Books]
 
 ## Open Libraries
 
@@ -93,16 +93,16 @@ A curated list of List of free/open access libraries and books.
 * [Chan, S. H. (2021). Introduction to probability for data science.](https://probability4datascience.com/).
 * [Davis, C. S. (2002). Statistical methods for the analysis of repeated measurements (p. 174). New York: Springer.](https://link.springer.com/book/10.1007/b97287).
 * [Diez, D., Cetinkaya-Rundel, M., Barr, C. (2019). OpenIntro Statistics Fourth Edition](https://open.umn.edu/opentextbooks/textbooks/60).
-* [Hyndman, R. J., & Athanasopoulos, G. (2018). Forecasting: principles and practice. OTexts.](https://otexts.com/fpp3/).
 * [Faraway, J. J. (2016). Linear models with R. Chapman and Hall/CRC.](https://julianfaraway.github.io/faraway/LMR/).
 * [Fein, E. C., Gilmour, J., Machin, T., & Hendry, L. (2022). Statistics for research students: An open access resource with self-tests and illustrative examples. University of Southern Queensland.](https://open.umn.edu/opentextbooks/textbooks/1191).
 * [Herzog, M. H., Francis, G., & Clarke, A. (2019). Understanding statistics and experimental design: how to not lie with statistics (p. 142). Springer Nature.](https://link.springer.com/book/10.1007/978-3-030-03499-3). This open access textbook provides the background needed to correctly use, interpret and understand statistics and statistical data in diverse settings.
+* [Hyndman, R. J., & Athanasopoulos, G. (2018). Forecasting: principles and practice. OTexts.](https://otexts.com/fpp3/).
 * [James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023). An introduction to statistical learning: With applications in python. Springer Nature.](https://www.statlearning.com/).
 * [James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning: With applications in R Second Edition. Springer Nature.](https://www.statlearning.com/).
+* [Lakens, D. (2016). Improving your statistical inferences](https://lakens.github.io/statistical_inferences/).
 * [Moraga, P. (2023). Spatial statistics for data science: theory and practice with R. CRC Press.](https://www.paulamoraga.com/book-spatial/index.html).
 * [Montesinos López, O. A., Montesinos López, A., & Crossa, J. (2022). Multivariate statistical machine learning methods for genomic prediction (p. 691). Springer Nature.](https://link.springer.com/book/10.1007/978-3-030-89010-0).
 * [Navarro, D. (2015). Learning Statistics with R](https://learningstatisticswithr.com/).
-
 
 
 

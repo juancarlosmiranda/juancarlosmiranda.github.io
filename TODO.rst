@@ -12,7 +12,7 @@ This is a *italic text*
 * Add theme template.
 * Add codeblock.
 * Add figure
-* Print in .PDF
+* Print in .PDF (a good examples is Lakens, D. (2016) Improving your statistical inferences).
 * Print in .bib
 * Citations format.
 * Add tables.
