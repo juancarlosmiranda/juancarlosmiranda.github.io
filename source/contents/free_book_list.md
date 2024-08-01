@@ -61,7 +61,8 @@ A curated list of List of free/open access libraries and books.
 * [Jentzen, A., Kuckuck, B., & von Wurstemberger, P. (2023). Mathematical introduction to deep learning: methods, implementations, and theory. arXiv preprint arXiv:2310.20360](https://arxiv.org/abs/2310.20360).
 
 ### Data Science
-* [Elements of Data Science](https://www.allendowney.com/blog/2024/07/17/elements-of-data-science/).
+* [Elements of Data Science](https://www.allendowney.com/blog/2024/07/17/elements-of-data-science/). Elements of Data Science is an introduction to data science for people with no programming experience. My goal is to present a small, powerful subset of Python that allows you to do real work with data as quickly as possible.
+* [Wilke, C. O. (2019). Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media.](https://clauswilke.com/dataviz/). The book is intended as a guide to creating visualizations that accurately reflect data, tell a story, and look professional.
 
 ### Maths
 * [Interactive Linear AlGebra](https://textbooks.math.gatech.edu/ila/).
