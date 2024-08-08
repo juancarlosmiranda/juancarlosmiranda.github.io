@@ -15,6 +15,7 @@ A curated list of List of free/open access libraries and books.
 
 ### Open Libraries in English
 * [Books Learning Room Santander](https://learningroom.becas-santander.com/). Hosted by Santander Group.
+* [BOOKDOWN Write HTML, PDF, ePub, and Kindle books with R Markdown](https://bookdown.org/).
 * [FreeTechBooks](http://www.freetechbooks.com/). Database of Free/ Open Access Online Computer Science Books.
 * [PRESSBOOKS](https://pressbooks.directory/). Pressbooks Directory is a free, searchable catalog of thousands of open access books published by various organizations and networks that use Pressbooks.
 * [openIntro](https://www.openintro.org/). Our mission is to make educational products that are free, transparent, and lower barriers to education. We also feature supporting resources, such as slides, videos, and more.Our mission is to make educational products that are free, transparent, and lower barriers to education. We also feature supporting resources, such as slides, videos, and more.
@@ -22,6 +23,7 @@ A curated list of List of free/open access libraries and books.
 * [aopen Library](https://library.oapen.org). OAPEN promotes and supports the transition to open access for academic books by providing open infrastructure services to stakeholders in scholarly communication.
 * [ScienceOPEN.com research+.publishing network](https://www.scienceopen.com/). ScienceOpen is a discovery platform with interactive features for scholars to enhance their research in the open, make an impact, and receive credit for it.
 * [AUTHOREA](https://www.authorea.com/). Discover and publish cutting edge, open research.
+* [Everything Computer Science. Our mission is to bring free, and engaging, computer science education to the world. We believe that higher education will better the world, and computer science is key to this change.](https://everythingcomputerscience.com/).
 
 ### Open Libraries in Spanish
 * [Libros Maravillosos](http://www.librosmaravillosos.com). Libros gratuitos de difusión
@@ -80,6 +82,9 @@ A curated list of List of free/open access libraries and books.
 
 * [Wilke, C. O. (2019). Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media.](https://clauswilke.com/dataviz/). The book is intended as a guide to creating visualizations that accurately reflect data, tell a story, and look professional.
 
+* [Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for data science. " O'Reilly Media, Inc.".](https://r4ds.had.co.nz/). R4DS teaches you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it.
+
+* [Peng, R. D., & Matsui, E. (2015). The art of data science. Bookdown](https://bookdown.org/rdpeng/artofdatascience/).
 
 ### Maths
 * [Interactive Linear AlGebra](https://textbooks.math.gatech.edu/ila/).
