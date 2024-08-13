@@ -189,9 +189,10 @@ Some platforms to solve competitive programming problems.
 * [Modern Robotics](https://github.com/madibabaiasl/modern-robotics-course).
 * [Robotics courses](https://github.com/mithi/robotics-coursework).
 * [Robotics courses online platform. Cursos de robótica](https://www.theconstructsim.com/).
+* [ROS Industrial, Industrial Training](https://industrial-training-dev.readthedocs.io/).
 
 ### Teledetection, satellital images
-* [Applied NASA Training](https://appliedsciences.nasa.gov/get-involved/training/).
+* [Applied NASA Training](https://appliedsciences.nasa.gov/get-involved/training/). The ROS-Industrial training page!
 
 
 ### Tech interviews
