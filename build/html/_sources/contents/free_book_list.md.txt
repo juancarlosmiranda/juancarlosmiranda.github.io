@@ -24,6 +24,7 @@ A curated list of List of free/open access libraries and books.
 * [ScienceOPEN.com research+.publishing network](https://www.scienceopen.com/). ScienceOpen is a discovery platform with interactive features for scholars to enhance their research in the open, make an impact, and receive credit for it.
 * [AUTHOREA](https://www.authorea.com/). Discover and publish cutting edge, open research.
 * [Everything Computer Science. Our mission is to bring free, and engaging, computer science education to the world. We believe that higher education will better the world, and computer science is key to this change.](https://everythingcomputerscience.com/).
+* [MIT Press Open Access Books](https://mitpress.mit.edu/open-access-at-mit-press/books/).
 
 ### Open Libraries in Spanish
 * [Libros Maravillosos](http://www.librosmaravillosos.com). Libros gratuitos de difusión
@@ -88,6 +89,9 @@ A curated list of List of free/open access libraries and books.
 
 ### Maths
 * [Interactive Linear AlGebra](https://textbooks.math.gatech.edu/ila/).
+
+* [ Gallier J., Quaintance J. (2024). Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning.](https://www.cis.upenn.edu/~jean/gbooks/geomath.html).
+
 
 ### Machine learning, Statistical Learning
 * [Deisenroth, M. P., Faisal, A. A., & Ong, C. S. (2020). Mathematics for machine learning. Cambridge University Press](https://mml-book.github.io/).
