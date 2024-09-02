@@ -15,6 +15,8 @@ A curated list of free/open access libraries and books.
 * [AI on Demand](https://www.ai4europe.eu/).
 * [BIDAcademy. Academia Banco Interamericano de Desarrollo](https://cursos.iadb.org/en).
 * [DAIR:AI. Democratizing Artificial Intelligence Research, Education and Technologies](https://github.com/dair-ai).
+* [FAO elearning ACADEMY](https://elearning.fao.org/)
+
 
 
 ### Digital skills

@@ -25,6 +25,7 @@ A curated list of List of free/open access libraries and books.
 * [AUTHOREA](https://www.authorea.com/). Discover and publish cutting edge, open research.
 * [Everything Computer Science. Our mission is to bring free, and engaging, computer science education to the world. We believe that higher education will better the world, and computer science is key to this change.](https://everythingcomputerscience.com/).
 * [MIT Press Open Access Books](https://mitpress.mit.edu/open-access-at-mit-press/books/).
+* [IntechOpen](https://www.intechopen.com/). IntechOpen - where academia and industry create content with global impact.
 
 ### Open Libraries in Spanish
 * [Libros Maravillosos](http://www.librosmaravillosos.com). Libros gratuitos de difusión
@@ -102,6 +103,8 @@ A curated list of List of free/open access libraries and books.
 * [James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023). An introduction to statistical learning: With applications in python. Springer Nature.](https://www.statlearning.com/).
 
 * [James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning: With applications in R Second Edition. Springer Nature.](https://www.statlearning.com/).
+
+* [Nielsen, M. A. (2015). Neural networks and deep learning (Vol. 25, pp. 15-24). San Francisco, CA, USA: Determination press.](http://neuralnetworksanddeeplearning.com/)
 
 
 ### Operating Systems
