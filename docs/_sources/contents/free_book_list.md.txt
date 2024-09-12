@@ -132,6 +132,9 @@ A curated list of List of free/open access libraries and books.
 ### Robotics
 * [Lynch, K. M., & Park, F. C. (2017). Modern robotics. Cambridge University Press](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf).
 
+* [Cangelosi, A., & Asada, M. (2022). Cognitive Robotics](https://direct.mit.edu/books/oa-edited-volume/5331/Cognitive-Robotics).
+
+
 ### Statistics and probability
 * [Cetinkaya-Rundel, M., Hardin, J.(2024). Introduction to Modern Statistics (2e)](https://openintro-ims.netlify.app/).
 
