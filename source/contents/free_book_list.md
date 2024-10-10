@@ -49,6 +49,12 @@ A curated list of List of free/open access libraries and books.
 
 * [Super Study Guide Algorithms & Data Structures](https://superstudy.guide/algorithms-data-structures/).
 
+* [ Shaffer, C. A. (2011). Data Structures & Algorithm Analysis in Java. Courier Corporation.](https://people.cs.vt.edu/shaffer/Book/). This is the homepage for the paper (and PDF) version of the book Data Structures & Algorithm Analysis by Clifford A. Shaffer. The most recent version is Edition 3.2.0.10, dated March 28, 2013.
+
+* [OpenDSA](https://opendsa-server.cs.vt.edu/). OpenDSA is infrastructure and materials to support courses in a wide variety of Computer Science-related topics such as Data Structures and Algorithms (DSA), Formal Languages, Finite Automata, and Programming Languages.
+
+* [A friendly notebook on Data Structures and Algorithms](https://hdl.handle.net/10016/35994 ). The purpose of this document is to provide study material that can be used for independent study by the students of the subject ’Data Structures and Algorithms’.
+
 * [Algorithms](https://labuladong.gitbook.io/algo-en).
 
 ### Computer Programming

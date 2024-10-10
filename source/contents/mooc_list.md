@@ -139,6 +139,8 @@ A curated list of free/open access libraries and books.
   .
 * [IBM: Fundamentals of C++](https://www.edx.org/es/learn/c-programming/ibm-fundamentals-of-c).
 
+* [Estructura de Datos y Algoritmos (Python)](https://ocw.uc3m.es/course/view.php?id=311).
+
 #### Java
 * [RedHat: Fundamentals of Java EE Development](https://www.edx.org/learn/java/red-hat-fundamentals-of-java-ee-development)
   .
