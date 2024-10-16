@@ -80,6 +80,8 @@ A curated list of List of free/open access libraries and books.
 
 * [Peng, R. D., & Matsui, E. (2015). The art of data science. Bookdown](https://bookdown.org/rdpeng/artofdatascience/).
 
+* [Baumer, B. S, Kaplan, D.T,  & Horton, N. J. (2023). Modern Data Science with R 2nd edition](https://mdsr-book.github.io/mdsr2e/).
+
 ### Deep Learning
 * [Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press](https://www.deeplearningbook.org/).
 
