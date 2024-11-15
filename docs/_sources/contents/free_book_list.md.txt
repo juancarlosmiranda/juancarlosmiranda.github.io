@@ -26,6 +26,8 @@ A curated list of List of free/open access libraries and books.
 * [Everything Computer Science. Our mission is to bring free, and engaging, computer science education to the world. We believe that higher education will better the world, and computer science is key to this change.](https://everythingcomputerscience.com/).
 * [MIT Press Open Access Books](https://mitpress.mit.edu/open-access-at-mit-press/books/).
 * [IntechOpen](https://www.intechopen.com/). IntechOpen - where academia and industry create content with global impact.
+* [Computer Sciences Commons](https://network.bepress.com/physical-sciences-and-mathematics/computer-sciences/). A good repository with open access materials.
+* [Computer Engineering Commons](http://network.bepress.com/engineering/computer-engineering/).
 
 ### Open Libraries in Spanish
 * [Libros Maravillosos](http://www.librosmaravillosos.com). Libros gratuitos de difusión
@@ -172,6 +174,9 @@ A curated list of List of free/open access libraries and books.
 
 * [Navarro, D. (2015). Learning Statistics with R](https://learningstatisticswithr.com/).
 
+# Writing, Scientific Writing
+* [Byfield, B. Designing ebooks with free software](https://www.designingebooks.com/). By contrast, Designing ebooks teaches several methods that will allow users to gain control over the creation of their ebooks. Beginners can take control using the desktop, while experts can format the raw code to get the greatest level of precision. All it takes is two tools that are free for the download: LibreOffice and Calibre, plus some trial and error to get the precision and professionalism you want.
+* [Byfield, B. Designing with LibreOffice](https://designingwithlibreoffice.com/). Designing with LibreOffice explains the importance of using styles and templates in order to use LibreOffice with the most convenience and the least effort. By taking advantage of styles and templates, you can concentrate on self-expression, rather than format.
 
 
 ## Licenses

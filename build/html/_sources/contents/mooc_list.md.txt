@@ -171,6 +171,7 @@ Some platforms to solve competitive programming problems.
 * [LeetCode](https://leetcode.com/). Used for jobs interviews.
 * [USACO - USA Computing Olympiad](https://usaco.org/).
 * [AtCoder](https://atcoder.jp/). Japanese platform focused in competitive programming.
+* [Fast I/O in Java in Competitive Programming](https://www.geeksforgeeks.org/fast-io-in-java-in-competitive-programming/)
 
 ### Cheatsheet
 * [Cheat-Sheets.org](https://www.cheat-sheets.org/).
