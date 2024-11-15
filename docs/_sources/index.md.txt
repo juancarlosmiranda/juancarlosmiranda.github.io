@@ -9,7 +9,7 @@ My doctoral research has focused on the characterization and classification of f
 
 Welcome to my site!
 
-Here I try to publish what I do, that includes: notes, works, code. I hope this is useful to you, and if it is, please let me know.
+Here I publish what I do, that includes: notes, works, code. I hope this is useful to you, and if it is, please let me know.
 
 * [Researchgate https://www.researchgate.net/profile/Juan-Miranda-6](https://www.researchgate.net/profile/Juan-Miranda-6)
 * [Scholar.Google:](https://scholar.google.com/citations?hl=es&user=B2f3BHYAAAA)

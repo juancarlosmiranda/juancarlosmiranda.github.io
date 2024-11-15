@@ -1,6 +1,6 @@
 # Massive Online Open Courses (MOOCs)
 
-A curated list of free/open access libraries and books.
+A curated list of free/open access Massive Online Open Courses.
 
 ## Contributing
 
