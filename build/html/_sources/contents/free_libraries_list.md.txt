@@ -1,4 +1,4 @@
-# Open Access Books by Topics
+# Open Access Libraries by Topics
 
 A curated list of free/open access libraries and books.
 
