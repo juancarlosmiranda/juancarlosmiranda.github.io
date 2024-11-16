@@ -19,11 +19,6 @@ A curated list of free and open source resources on computer programming. The re
 - [CI/CD, Git, devops, cloud]
 
 
-## Tech interviews
-* [Tech-Interview: Important Topics and Techniques](https://github.com/Coder-World04/Tech-Interview-Important-Topics-and-Techniques). 
-* [Developer Roadmaps](https://roadmap.sh/). Developers Roadmaps about technologies.
-
-
 ## Algorithms, Data Structures Algorithms (DSA)
 
 ### Algorithms, Data Structures Algorithms (DSA) Books
@@ -49,9 +44,18 @@ A curated list of free and open source resources on computer programming. The re
 
 
 ## Android (WORKING)
-### Android Courses
+### Android Courses (WORKING)
 
-### Android Books
+### Android Books (WORKING)
+* [Android's Architecture Components (JAVA)](https://commonsware.com/AndroidArch/).
+* [The Busy Coder's Guide to Android Development (JAVA)](https://commonsware.com/Android/).
+* [Elements of Android Q (KOTLIN)](https://commonsware.com/Q/)
+* [Android Internals: A Confectioner’s Cookbook](https://newandroidbook.com/). Book about the operating systems part.  
+* [Elements of Android Jetpack (JAVA, KOTLIN)](https://commonsware.com/Jetpack/)
+* [Exploring Android (KOTLIN)](https://commonsware.com/AndExplore/)
+* [Elements of Android Room (KOTLIN)](https://commonsware.com/Room/pages/index)
+* [Elements of Kotlin (KOTLIN)](https://commonsware.com/Kotlin/)
+
 
 ## C++
 * [Modern CPP programming](https://github.com/federico-busato/Modern-CPP-Programming).
@@ -113,6 +117,9 @@ Some platforms to solve competitive programming problems.
 * [Git BRanch](https://learngitbranching.js.org/).
 * [Docker resources](https://www.docker.com/blog/how-to-dockerize-your-python-applications/).
 
+## Tech interviews
+* [Tech-Interview: Important Topics and Techniques](https://github.com/Coder-World04/Tech-Interview-Important-Topics-and-Techniques). 
+* [Developer Roadmaps](https://roadmap.sh/). Developers Roadmaps about technologies.
 
 
 ## Licenses
