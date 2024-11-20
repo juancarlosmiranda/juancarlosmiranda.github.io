@@ -1,2 +1,9 @@
 Add competitive programming
 https://github.com/joney000/Java-Competitive-Programming
+
+
+Agregar los iconos de los lenguajes.
+Las recetas deben tener el mismo formato.
+Sería bueno ver cómo hacer la pestaña de múltiples lenguajes.
+Hacer una hoja de referenca de Pytorch.
+Ver como vincular las recetas en la página web.

@@ -21,7 +21,6 @@ A curated list of free and open source resources on computer programming. The re
 
 ## Algorithms, Data Structures Algorithms (DSA)
 
-### Algorithms, Data Structures Algorithms (DSA) Books
 * [Erickson, J. (2023). Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/). This web page contains a free electronic version of my self-published textbook Algorithms, along with other lecture notes I have written for various theoretical computer science classes at the University of Illinois, Urbana-Champaign since 1998.
 
 * [Kochenderfer, M. J., Wheeler, T. A., & Wray, K. H. (2022). Algorithms for decision making. MIT press](https://algorithmsbook.com/).
@@ -65,7 +64,6 @@ A curated list of free and open source resources on computer programming. The re
 * [IBM: Fundamentals of C++](https://www.edx.org/es/learn/c-programming/ibm-fundamentals-of-c).
 
 ## Java (WORKING)
-### Java Courses
 * [RedHat: Fundamentals of Java EE Development](https://www.edx.org/learn/java/red-hat-fundamentals-of-java-ee-development)
   .
 * [Spring MVC, Spring Boot and Rest Controllers](https://www.coursera.org/learn/spring-mvc-rest-controller).
