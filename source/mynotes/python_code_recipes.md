@@ -1,3 +1,3 @@
-# Java Notes
+# Python Notes
 
 .

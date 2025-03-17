@@ -1,4 +1,4 @@
-# Computer Programing
+# Computer Programing Resources
 It is a section dedicated exclusively to the topic of computer programming.
 A curated list of free and open source resources on computer programming. The reader can find here information on interviews, problems and algorithms, online platforms on programming, courses by language and information on competitive programming.
 

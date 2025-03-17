@@ -32,6 +32,7 @@ A curated list of free/open access Massive Online Open Courses.
 * [Cognitive Class AI](https://cognitiveclass.ai/).
 * [CertiProf free certifications][https://certiprof.com/pages/free-new-entry-level-certification]
 * [SimpliLearn](https://www.simplilearn.com/).
+* [Engineer 4 Free](https://www.engineer4free.com/). Learn Engineering for Free.
 
 ## Open access courses offered by universities
 * [MIT OpenCourseWare](https://ocw.mit.edu/).

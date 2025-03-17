@@ -80,6 +80,8 @@ A curated list of List of free/open access libraries and books.
 
 * [Matthews, S. J., Newhall, T., & Webb, K. C. (2022). Dive Into Systems: A Gentle Introduction to Computer Systems. No Starch Press.](https://diveintosystems.org/).
 
+* [Shotts, W. The Linux Command Line](https://linuxcommand.org/tlcl.php). Designed for the new command line user, this 594-page volume covers the same material as LinuxCommand.org but in much greater detail. In addition to the basics of command line use and shell scripting, The Linux Command Line includes chapters on many common programs used on the command line, as well as more advanced topics.
+
 
 ## Robotics
 * [Lynch, K. M., & Park, F. C. (2017). Modern robotics. Cambridge University Press](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf).
@@ -114,7 +116,9 @@ A curated list of List of free/open access libraries and books.
 
 * [Montesinos López, O. A., Montesinos López, A., & Crossa, J. (2022). Multivariate statistical machine learning methods for genomic prediction (p. 691). Springer Nature.](https://link.springer.com/book/10.1007/978-3-030-89010-0).
 
-* [Navarro, D. (2015). Learning Statistics with R](https://learningstatisticswithr.com/).
+* [Navarro, D. (2015). Learning Statistics with R](https://learningstatisticswithr.com/). 
+
+* [Díaz-Monroy, L. (2012). Análisis estadístico de datos multivariados](https://repositorio.unal.edu.co/handle/unal/79916). La intención al escribir este texto, es ofrecer un material actualizado de análisis y métodos estadísticos multivariados, de fácil acceso para estadísticos y usuarios de la estadística de diferentes disciplinas y áreas del conocimiento. 
 
 ## Writing, Scientific Writing
 * [Byfield, B. Designing ebooks with free software](https://www.designingebooks.com/). By contrast, Designing ebooks teaches several methods that will allow users to gain control over the creation of their ebooks. Beginners can take control using the desktop, while experts can format the raw code to get the greatest level of precision. All it takes is two tools that are free for the download: LibreOffice and Calibre, plus some trial and error to get the precision and professionalism you want.
