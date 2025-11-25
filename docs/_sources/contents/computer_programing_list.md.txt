@@ -76,6 +76,7 @@ A curated list of free and open source resources on computer programming. The re
 * [Think Python, 3rd edition](https://greenteapress.com/wp/think-python-3rd-edition/).
 * [Learning Scientific Programming with Python](https://scipython.com/about/the-book/) 
 * [Estructura de Datos y Algoritmos (Python)](https://ocw.uc3m.es/course/view.php?id=311).
+* [Awesome Python](https://github.com/Frosmin/awesome-python).
 
 
 ## Competitive Programming Resources
@@ -83,20 +84,23 @@ A curated list of free and open source resources on computer programming. The re
 ### Competitive Programming Books
 * [Competitive Programmer's Handbook](https://cses.fi/book.pdf).
 
-### Competitive Programming Practice
+### Competitive Programming Practice / Programming Challenges
 Some platforms to solve competitive programming problems.
 * [AtCoder](https://atcoder.jp/). Japanese platform focused in competitive programming.
 * [CodeForces](https://codeforces.com/). Competitive programming, contests and problems.
+* [CodignGame](https://www.codingame.com).
 * [USACO - USA Computing Olympiad](https://usaco.org/).
 * [Leetcode](https://leetcode.com/). It is a platform to expand knowledge and prepare for technical interviews.
+* [LeetGPU](https://www.leetgpu.com/).
 * [Fast I/O in Java in Competitive Programming](https://www.geeksforgeeks.org/fast-io-in-java-in-competitive-programming/)
 * [Dev.to](https://dev.to/).
-* [Kaggle](https://www.kaggle.com/).
+* [exercism](https://exercism.org/). Get really good at programming. Develop fluency in 76 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.
 * [Hacker Noon](https://hackernoon.com/).
+* [Kaggle](https://www.kaggle.com/).
 * [Logic Mojo](https://logicmojo.com/).
-* [CodignGame](https://www.codingame.com).
 * [OPENEDG](https://openedg.org/).
 * [CODE REFINERY](https://coderefinery.org/). We train you in research software development.
+* [Project Euler](https://www.freecodecamp.org/learn/project-euler/). Complete the programming challenges below, from the massive Project Euler archives. These will harden your algorithm and mathematics knowledge.
 
 
 ### Cheatsheet
